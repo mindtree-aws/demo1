@@ -1,2 +1,5 @@
 
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/getting-started-nodejs.html
+
+https://aws.amazon.com/getting-started/tutorials/
+https://www.aws.training/LearningLibrary
