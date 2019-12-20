@@ -3,3 +3,5 @@ https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/getting-starte
 
 https://aws.amazon.com/getting-started/tutorials/
 https://www.aws.training/LearningLibrary
+
+https://www.katacoda.com/matteofigus/scenarios/aws-cloudformation-tools
