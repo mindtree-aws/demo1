@@ -5,3 +5,5 @@ https://aws.amazon.com/getting-started/tutorials/
 https://www.aws.training/LearningLibrary
 
 https://www.katacoda.com/matteofigus/scenarios/aws-cloudformation-tools
+
+https://www.katacoda.com/courses/kubernetes/guestbook
